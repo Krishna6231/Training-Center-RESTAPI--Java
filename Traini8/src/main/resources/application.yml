@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: 
+      uri: // paste yout MongoDB connection string here
