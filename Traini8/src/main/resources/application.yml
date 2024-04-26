@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://krishnamodi1524:QfmKCzS0ObfaRMr0@cluster0.0hnaf7a.mongodb.net/testdb
+      uri: 
