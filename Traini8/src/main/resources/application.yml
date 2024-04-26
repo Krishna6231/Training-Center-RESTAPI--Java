@@ -1,10 +1,4 @@
 spring:
-  h2:
-    console:
-      enabled: true
-  datasource:
-    url: jdbc:h2:mem:testdb
-
-
-server:
-  port:9292
+  data:
+    mongodb:
+      uri: mongodb+srv://krishnamodi1524:QfmKCzS0ObfaRMr0@cluster0.0hnaf7a.mongodb.net/testdb

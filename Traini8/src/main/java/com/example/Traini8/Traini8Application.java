@@ -10,4 +10,5 @@ public class Traini8Application {
 		SpringApplication.run(Traini8Application.class, args);
 	}
 
+	
 }
