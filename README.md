@@ -55,7 +55,7 @@ If your MongoDB instance requires authentication, include the username and passw
 
 #### Other Necessary Details:
 
-Review any other configuration settings required by your MongoDB instance, such as authentication mechanisms, replica set configuration, SSL/TLS settings, etc. Ensure these details are correctly configured in the application properties file.
+USE MongoDB collection name as Traini8 or Change the collection name in UserRequest.java
 
 ### Application Configuration
 
