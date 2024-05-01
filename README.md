@@ -55,7 +55,7 @@ If your MongoDB instance requires authentication, include the username and passw
 
 #### Other Necessary Details:
 
-USE MongoDB collection name as Traini8 or Change the collection name in UserRequest.java
+USE MongoDB collection name as Traini8 or Change the collection name in TrainingCenter.java
 
 ### Application Configuration
 
