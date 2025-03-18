@@ -1,9 +1,5 @@
 
-# Traini8 - Training Center Registry MVP
-
-## Overview
-
-Traini8 is a startup focused on creating a Minimum Viable Product (MVP) for a registry of Government-funded Training Centers. This MVP is designed to fulfill the basic requirements outlined in the problem statement.
+# Training Center Registry MVP
 
 ## Features
 
